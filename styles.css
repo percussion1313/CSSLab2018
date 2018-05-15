@@ -1,0 +1,44 @@
+body{
+    font-family: 'Playfair Display', serif;
+    background-color: #9d2db;
+}
+.readme-wrapper, h2, p{
+    text-align: center;
+    text-decoration: none;
+    color: #477c62;
+}
+
+.boxes{
+    align-items: center;
+    display: block;
+    border: 6px;
+    margin: 2px;
+    border-style: solid;
+    border-spacing: 2px;
+    padding: 5px;
+    border-radius: 7px;
+    overflow: auto;
+    width: 50%;
+}
+a:hover{
+    cursor: pointer;
+    font-weight: bold;
+    color: blue;
+}
+.harrypotter{
+    font-weight: 800;
+    color: crimson;
+}
+.noble{
+    font-weight: bolder;
+    color: mediumorchid;
+}
+.thirsty{
+    font-weight: 600;
+    color:yellowgreen;
+}
+.icon{
+    font-weight: 300;
+    font-stretch: wider;
+    color: black;
+}
