@@ -5,7 +5,7 @@ body{
 .readme-wrapper, h2, p{
     text-align: center;
     text-decoration: none;
-    color: #477c62;
+    color: darkblue;
 }
 
 .boxes{
@@ -18,7 +18,6 @@ body{
     padding: 5px;
     border-radius: 7px;
     overflow: auto;
-    width: 50%;
 }
 a:hover{
     cursor: pointer;
@@ -41,4 +40,27 @@ a:hover{
     font-weight: 300;
     font-stretch: wider;
     color: black;
+}
+#box1{
+    width: 70%;
+    position: static;
+    background-color: lightblue;
+}
+#box2{
+    width: 75%;
+    background-color: lightcoral;    
+}
+#box3{
+    width: 80%;
+    background-color: lightgreen;    
+}
+#box4{
+    width: 85%;
+    background-color: lightyellow;    
+}
+.section{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: black;
 }
