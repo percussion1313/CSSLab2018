@@ -64,3 +64,48 @@ a:hover{
     height: 10px;
     background-color: black;
 }
+
+h1{
+    color: darkblue;
+}
+
+.font1{
+    color: aqua;
+}
+
+.font-2{
+    color: slateblue;
+}
+
+#show1{
+    color: blueviolet;
+}
+#show2{
+    color:brown;
+}
+#show3{
+    color: goldenrod;
+}
+#show4{
+    color: deepskyblue;
+}
+#show5{
+  color: lightpink; 
+}
+
+.list-1{
+    color: lightslategray;
+}
+.list-2{
+    color: blueviolet;
+}
+.list-3{
+    color: mediumturquoise;
+}
+
+.border{
+    border: 2px;
+    border-style: double;
+    color: black;
+    width: 30%;
+}
